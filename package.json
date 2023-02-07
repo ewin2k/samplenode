@@ -16,4 +16,7 @@
     "url": "https://github.com/ewin2k/samplenode/issues"
   },
   "homepage": "https://github.com/ewin2k/samplenode#readme"
+  "publishConfig": {
+   "@ewin2k:registry": "https://npm.pkg.github.com"
+ }
 }
