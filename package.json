@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/ewin2k/samplenode/issues"
   },
-  "publishConfig": {
-   "@ewin2k:registry": "https://npm.pkg.github.com"
-  },
   "homepage": "https://github.com/ewin2k/samplenode#readme"
 }
